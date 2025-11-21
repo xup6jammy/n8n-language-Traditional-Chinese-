@@ -1,25 +1,25 @@
 # 效果
-## 1. 登入首頁 (英)
+1. 登入首頁 (英)
     <img width="1280" height="619" alt="n8n-英-登入" src="https://github.com/user-attachments/assets/3ee69334-325b-495d-8233-1aeb39e685b7" />
-##  1. 登入首頁 (繁中)
+1. 登入首頁 (繁中)
     <img width="1280" height="619" alt="n8n-繁中-登入" src="https://github.com/user-attachments/assets/3597f693-d623-47e8-b281-b37b4d1c66aa" />
-##  2. 概述(英)
+2. 概述(英)
     <img width="1280" height="619" alt="n8n-英-概述" src="https://github.com/user-attachments/assets/30b65384-8dc3-4608-8e84-494c8285bce6" />
-##  2. 概述 (繁中)
+2. 概述 (繁中)
     <img width="1280" height="619" alt="n8n-繁中-概述" src="https://github.com/user-attachments/assets/5239fee1-10fb-4044-8460-ec8103094b4f" />
-##  3. 憑證 (英)
+3. 憑證 (英)
    <img width="1280" height="619" alt="n8n-英-變數" src="https://github.com/user-attachments/assets/6d79a093-afe4-46f3-8b38-fffd3c2d5797" />
-##  3. 憑證 (繁中)
+3. 憑證 (繁中)
     <img width="1280" height="619" alt="n8n-繁中-變數" src="https://github.com/user-attachments/assets/00f9ef95-1552-4c86-b2ec-195d310d9049" />
-##  4. 工作畫布1 (英)
+4. 工作畫布1 (英)
     <img width="1280" height="619" alt="n8n-英-畫布" src="https://github.com/user-attachments/assets/7d5bd9d7-1617-4644-bede-489276984da7" />
-##  4. 工作畫布1 (繁中)
+4. 工作畫布1 (繁中)
     <img width="1280" height="619" alt="n8n-繁中-畫布" src="https://github.com/user-attachments/assets/25b93f53-7194-4b68-8675-78aae8b1d48d" />
-##  5. 工作畫布2 (英)
+5. 工作畫布2 (英)
     <img width="1280" height="619" alt="n8n-英-畫布-2" src="https://github.com/user-attachments/assets/c68ff934-88a9-40dd-a9b0-3c08fd7af7f1" />
-##  5. 工作畫布2 (繁中)
+5. 工作畫布2 (繁中)
     <img width="1280" height="619" alt="n8n-繁中-畫布-2" src="https://github.com/user-attachments/assets/39519527-c957-4bf0-b0ad-33a6e7587722" />
-<br>
+---
 # n8n 中文化配置指南
 
 ## 步驟 1: 準備中文語言檔
