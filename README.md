@@ -2,7 +2,7 @@
 1. 登入首頁 (英)
     <img width="1280" height="619" alt="n8n-英-登入" src="https://github.com/user-attachments/assets/3ee69334-325b-495d-8233-1aeb39e685b7" />
 1. 登入首頁 (繁中)
-    <img width="1280" height="619" alt="n8n-繁中-登入" src="https://github.com/user-attachments/assets/3597f693-d623-47e8-b281-b37b4d1c66aa" />
+  <img width="1280" height="619" alt="n8n-繁中-登入" src="https://github.com/user-attachments/assets/db7a3c37-8410-4773-8819-0f0547400f31" />
 2. 概述(英)
     <img width="1280" height="619" alt="n8n-英-概述" src="https://github.com/user-attachments/assets/30b65384-8dc3-4608-8e84-494c8285bce6" />
 2. 概述 (繁中)
